@@ -21,4 +21,3 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="28px" width="28px" />
   </a>
 </p>
-![image](https://user-images.githubusercontent.com/72741197/112524451-99c2ac80-8d7e-11eb-85cc-5474aca18070.png)
