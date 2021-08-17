@@ -1,10 +1,29 @@
-<h3> Hi there 👋 </h3>
+<h1>🐱‍💻Hi! Nice to see you. </h1>
 
-<h2> I'm a developer Full Stack! </h2>
+Welcome to my page!
+</br>
+I'm Kevin Cruz, Fullstack developer from <strong>Ponta Grossa, Brasil</strong>, currently living in <strong>La Serena, Chile</strong>.
+<br/>
+<h4> Using and learning </h4>
+  - React
+  - Next
+  - TypeScript
+  - JavaScript
+  - NodeJS
+  - HTML5
+  - CSS
+  - Git
+  - JAVA
+  - Oracle SQL
+<br/>
+<br/>
+
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
+
+<h4> About me </h4>
 - ‍ 🐱‍👤 Student and developer front end & back end.
--  🌱 I’m currently studying in Inacap university, Chile!
+-  🌱 I’m currently studying a programmer analyst at the Inacap university, Chile!
 -  💬 I’m currently learning ReactJS, JAVA, MySQL, english...🤣
 -  🚀 I love innovation and new technologies.
 -  🤔 I’m looking to make content in Youtube.
