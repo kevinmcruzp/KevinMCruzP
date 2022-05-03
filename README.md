@@ -3,7 +3,7 @@ Welcome to my page!
 
 </br>
 
-I'm <strong>Kevin Cruz</strong>, Fullstack developer from <strong>Ponta Grossa, Brasil</strong>, currently living in <strong>La Serena, Chile</strong>.
+I'm <strong>Kevin Cruz</strong>, Fullstack developer from <strong>Carambeí, Brasil</strong>, currently living in <strong>La Serena, Chile</strong>.
 
 <br/>
 
