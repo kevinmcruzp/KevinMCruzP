@@ -11,11 +11,12 @@ I'm <strong>Kevin Cruz</strong>, Fullstack developer from <strong>Carambeí, Bra
 
 <div>
   
-    - React                                  - HTML5
-    - Next                                   - CSS
+    - ReactJS                                - HTML5
+    - NextJS                                 - CSS
     - TypeScript                             - Git
     - JavaScript                             - JAVA
     - NodeJS                                 - Oracle SQL
+    - C#                                     - MySQL
   
 </div>
 
@@ -25,11 +26,11 @@ I'm <strong>Kevin Cruz</strong>, Fullstack developer from <strong>Carambeí, Bra
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
 - ‍ 🐱‍👤 Student and developer front end & back end.
--  🌱 I’m currently studying a programmer analyst at the Inacap university, Chile.
--  💬 I’m currently learning NodeJS, NextJS, MySQL, english...🤣
+-  🌱 I’m currently studying Software Engineer at the Inacap university, Chile.
+-  💬 I’m currently getting better in NodeJS, Typescript, NextJS, english...🤣
 -  🚀 I love innovation and new technologies.
 -  🤔 I’m looking to make content in Youtube.
--  💡  I Speak in Brazilian Portuguese, Spanish and intermediate English.
+-  💡 I Speak in Brazilian Portuguese, Spanish and intermediate English.
 -  👻 Fun fact: I worked as a fisherman and woodwork.
 
 <br />
